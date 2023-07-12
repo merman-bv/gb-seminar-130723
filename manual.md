@@ -72,9 +72,21 @@
 
 Переключение на ветку:
 
-> git chekout master
+> git checkout master
+
+Удаление ветки
+
+> git checkout -D NameBranch
 
 ---
-## Ветки
+## Ветки команда git branch
 
-ля-ля-ля то-поля
+Показывает существующие ветки, создает новые
+
+> git branch
+
+Создание новой ветки
+
+> git branch NameBranch
+
+Команда git merge S
